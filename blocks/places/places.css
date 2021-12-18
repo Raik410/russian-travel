@@ -1,0 +1,7 @@
+.places {
+  display: grid;
+  grid-template-columns: 1fr;
+  max-width: 984px;
+  margin: 0 auto;
+  align-content: center;
+}

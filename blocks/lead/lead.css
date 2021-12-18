@@ -4,5 +4,7 @@
   max-width: 984px;
   margin: 0 auto;
   position: relative;
+  min-height: 1005px;
+  text-align: center;
   align-items: center;
 }
