@@ -1,0 +1,10 @@
+.cover__overlay {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: url(../../../image/cover-trains.jpg);
+  min-height: 720px;
+  background-size: cover;
+  justify-content: center;
+  max-width: 100%;
+}
