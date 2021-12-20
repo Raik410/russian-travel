@@ -3,3 +3,16 @@
   max-height: 615px;
   margin-top: 64px;
 }
+
+@media screen and (max-width: 768px) {
+  .lead__image {
+    min-width: 768px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__image {
+    min-width: 320px;
+    margin-top: 40px;
+  }
+}

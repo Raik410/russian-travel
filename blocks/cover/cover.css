@@ -6,3 +6,13 @@
   align-content: center;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 768px) {
+  .cover {
+    min-height: 480px;
+  }
+  }
+
+
+
+

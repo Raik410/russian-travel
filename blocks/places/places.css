@@ -5,3 +5,11 @@
   margin: 0 auto;
   align-content: center;
 }
+
+
+@media screen and (max-width: 767px) {
+  .place:first-child {
+    margin-top: 64px;
+  }
+}
+

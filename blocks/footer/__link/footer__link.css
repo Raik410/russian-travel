@@ -6,9 +6,15 @@
   letter-spacing: 0em;
   text-align: left;
   margin: 0 16px 0 0;
+  text-decoration: none;
+  color: white;
+  transition: .3s opacity linear;
 }
 
 .footer__link:last-child {
   margin: 0;
 }
 
+.footer__link:hover {
+  opacity: .3;
+}

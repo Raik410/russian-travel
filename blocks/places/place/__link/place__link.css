@@ -5,4 +5,16 @@
   line-height: 22px;
   letter-spacing: 0em;
   margin: 0;
+  transition: .3s opacity linear;
+  color: white;
 }
+
+.place__link:hover {
+  opacity: 0.3;
+}
+
+@media screen and (max-width: 767px) {
+  .place__link {
+    min-width: 288px;
+  }
+  }
