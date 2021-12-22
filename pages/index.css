@@ -1,5 +1,7 @@
 /* Inter */
 @import url(../Inter\ Web/inter.css);
+/* Normalize */
+@import url(../styles/normalize.css);
 /* Pages */
 @import url(../blocks/page/page.css);
 /* Header */
