@@ -27,6 +27,8 @@
     letter-spacing: 0em;
     text-align: left;
     max-width: 288px;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 }
 
