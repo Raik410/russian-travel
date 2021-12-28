@@ -39,9 +39,11 @@
     row-gap: 48px;
     margin-bottom: 73px;
   }
+
   .place:last-child {
     margin-bottom: 90px;
   }
+
   .place:first-child {
     margin-top: 88px;
   }
@@ -50,18 +52,18 @@
 @media screen and (max-width: 767px) {
   .place {
     margin-top: 50px;
-    grid-template-columns: minmax(min-content, 340px);
+    grid-template-columns: minmax(min-content, 100vw);
     row-gap: 32px;
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 0;
   }
+
   .place:first-child {
     margin-top: 64px;
   }
+
   .place:last-child {
     margin-bottom: 64px;
   }
 }
-
-

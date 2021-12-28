@@ -23,7 +23,6 @@
   .intro {
     margin-left: 16px;
     margin-right: 16px;
-    max-width: 720px;
+    max-width: 100vw;
   }
 }
-

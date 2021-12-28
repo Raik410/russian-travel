@@ -4,7 +4,6 @@
   max-width: 1184px;
   margin: 92px auto 0;
   justify-content: space-between;
-  margin-top: 92px;
   padding-bottom: 24px;
 }
 
@@ -27,9 +26,7 @@
   .footer {
     margin: 67px 0 0 16px;
     padding-bottom: 16px;
-    max-width: 186px;
     align-items: flex-start;
     flex-direction: column;
-    min-height: 320px;
   }
 }

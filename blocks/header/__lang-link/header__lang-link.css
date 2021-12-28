@@ -5,23 +5,19 @@
   font-weight: 400;
   text-decoration: none;
   color: white;
-  transition: 0.3s opacity linear;
 }
+
 .header__lang-link:first-child {
   margin: 0 18px 0 0;
-  text-decoration: underline;
 }
 
 .header__lang-link:hover {
-  opacity: 0.3;
+  text-decoration: underline;
 }
 
 @media screen and (max-width: 767px) {
-.header__lang-link {
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 20px;
-  letter-spacing: 0em;
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
   }
 }
