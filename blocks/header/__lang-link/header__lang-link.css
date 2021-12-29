@@ -9,6 +9,7 @@
 
 .header__lang-link:first-child {
   margin: 0 18px 0 0;
+  text-decoration: underline;
 }
 
 .header__lang-link:hover {
@@ -21,3 +22,4 @@
     line-height: 20px;
   }
 }
+
